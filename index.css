@@ -1,0 +1,26 @@
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: 30px;
+    font-weight: 4000px;
+    line-height: 20px;
+}
+#aa{
+    background-color: aqua;
+    color: blue;
+}
+#bb{
+    background-color: rgb(230, 14, 14);
+    color: rgb(76, 0, 255);
+    
+}
+#cc{
+    background-color:  rgba(10, 10, 214, 0.473);
+}
+#dd{
+    background-color: #00ff002d;
+
+}
+#ee{
+    background-color: hsl(62, 113%, 81%);
+}
